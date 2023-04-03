@@ -1,3 +1,3 @@
 # PhysicsSimulation
 
-## An enironment to analyze addition and subtraction of forces
+## An environment to analyze addition and subtraction of forces
