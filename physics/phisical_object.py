@@ -1,4 +1,4 @@
-from force_object import ForceObject
+from physics import ForceObject
 from collections import namedtuple
 import math
 

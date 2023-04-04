@@ -1,4 +1,4 @@
-from phisical_object import *
+from physics import *
 
 class Bullet(PhisicalObject):
 
